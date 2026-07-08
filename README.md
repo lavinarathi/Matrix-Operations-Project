@@ -30,6 +30,9 @@ Matrix-operation-project/
 |--operations/
    |--__init__.py
    |-- operations.py
+   
+## Screenshots 
+project screenshots are added in the repository
 
 ## AUTHOR 
 **Lavina Rathi 
